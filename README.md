@@ -1,3 +1,6 @@
+Collaborators: 
+
+- @Bleemoose
 # Huffman encoder and decoder
 
 To encode a file run the following:
